@@ -1,0 +1,5 @@
+VAR
+	VisionCtrl : VisionCtrlType;
+	CompletedAcquisitionCntOld : USINT;
+	ViBaseAxisBasedAcquisition_0 : ViBaseAxisBasedAcquisition;
+END_VAR

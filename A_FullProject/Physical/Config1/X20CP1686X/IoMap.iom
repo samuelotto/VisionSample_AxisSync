@@ -1,0 +1,7 @@
+VAR_CONFIG
+	::Vi_main:VisionCtrl.Parameters.SetFocus AT %QW."VSS112Q22.041P-000".SetFocus;
+	::Vi_main:VisionCtrl.Parameters.ExposureTime AT %QD."VSS112Q22.041P-000".ExposureTime01;
+	::Vi_main:VisionCtrl.Parameters.FlashColor AT %QB."VSS112Q22.041P-000".FlashColor01;
+	::Vi_main:VisionCtrl.Parameters.FlashSegment AT %QB."VSS112Q22.041P-000".FlashSegment01;
+	::Vi_main:CompletedAcquisitionCntOld AT %IB."VSS112Q22.041P-000".CompletedAcquisitionCnt;
+END_VAR

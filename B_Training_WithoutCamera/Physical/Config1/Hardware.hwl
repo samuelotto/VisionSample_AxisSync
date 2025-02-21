@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?AutomationStudio FileVersion="4.9"?>
+<BR.AS.HardwareTopology>
+  <TimeStamps>
+    <TimeStamp LogicalPath="Config1.Hardware.hw" LastWriteTime="02/20/2025 08:20:25" />
+  </TimeStamps>
+  <Modules>
+    <Module Name="X20CP1686X" Type="X20CP1686X" X="100" Y="100" />
+    <Module Name="80VD100PD.C000-01" Type="80VD100PD.C000-01" X="250" Y="249" />
+    <Module Name="VSS112Q22.041P-000" Type="VSS112Q22.041P-000" X="357" Y="249" />
+  </Modules>
+  <Links>
+    <Link From="80VD100PD.C000-01" To="X20CP1686X" FromPort="PLK1" ToPort="IF3" IsRoutedByUser="False">
+      <Point X="289" Y="323" />
+      <Point X="289" Y="308" />
+      <Point X="308" Y="308" />
+      <Point X="315" Y="308" />
+      <Point X="315" Y="235" />
+      <Point X="156" Y="235" />
+      <Point X="156" Y="200" />
+      <Point X="156" Y="187" />
+      <Point X="156" Y="187" />
+    </Link>
+    <Link From="VSS112Q22.041P-000" To="80VD100PD.C000-01" FromPort="PLK1" ToPort="PLK2" IsRoutedByUser="False">
+      <Point X="375" Y="367" />
+      <Point X="375" Y="367" />
+      <Point X="375" Y="372" />
+      <Point X="375" Y="385" />
+      <Point X="345" Y="385" />
+      <Point X="345" Y="323" />
+      <Point X="308" Y="323" />
+      <Point X="299" Y="323" />
+      <Point X="299" Y="323" />
+    </Link>
+  </Links>
+  <InfoElements />
+</BR.AS.HardwareTopology>
