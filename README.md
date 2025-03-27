@@ -6,7 +6,7 @@
 * [Requirements](#requirements)
 * [Revision History](#revision-history)
 * [Detailed information about the project](#detailed-information-about-the-project)
-* * [Disclaimer](#disclaimer)
+* [Disclaimer](#disclaimer)
 
 # Introduction
 A simple sample for [B&amp;R Machine Vision](https://www.br-automation.com/de-de/produkte/vision-systeme/) to show the connection to an axis and to trigger images simply and automatic via a mappMotion axis
