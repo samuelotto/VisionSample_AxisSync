@@ -6,6 +6,7 @@
 * [Requirements](#requirements)
 * [Revision History](#revision-history)
 * [Detailed information about the project](#detailed-information-about-the-project)
+* * [Disclaimer](#disclaimer)
 
 # Introduction
 A simple sample for [B&amp;R Machine Vision](https://www.br-automation.com/de-de/produkte/vision-systeme/) to show the connection to an axis and to trigger images simply and automatic via a mappMotion axis
@@ -60,4 +61,9 @@ This task has two features:
 
 The variables **CmdShowImageMappView** and **CmdSaveFile** start the functions.
 
+# Disclaimer
+This software project is provided for training and demonstration purposes only and is not intended for production use.
 
+It is provided as-is, without warranty or support. The author assume no liability for any damages resulting from the use or misuse of this software.
+
+This software has not been tested for security, data protection, or regulatory compliance (e.g., Cyber Resilience Act). The user is responsible for verifying, adapting, and securing the software before using it in their own environment.
